@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research and Projects
+title: Research
 permalink: /Research/
 avatar: true
 navigation: true
