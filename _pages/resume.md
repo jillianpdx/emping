@@ -8,11 +8,14 @@ navigation: true
 ## Education
 ### **Grinnell College** Grinnell, Iowa
 Physics Major, Bachelor of Arts
+
 GPA: 3.73, Expected to graduate May 2019
 
 ## Skills
 Windows and MacOSx proficiency
+
 MATLAB, Igor Pro, Python, SolidWorks (CAD) and Arduino C/C++
+
 Soldering and circuit board experience
 
 ## Experience
