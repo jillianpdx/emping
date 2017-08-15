@@ -2,7 +2,7 @@
 layout: default
 title: Research
 permalink: /Research/
-avatar: true
+avatar: false
 navigation: true
 ---
 
