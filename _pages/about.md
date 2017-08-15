@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome
-permalink: /about/
+permalink: /welcome/
 avatar: true
 navigation: true
 ---
